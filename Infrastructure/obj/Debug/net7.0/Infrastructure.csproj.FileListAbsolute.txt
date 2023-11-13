@@ -1,0 +1,15 @@
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\Infrastructure\bin\Debug\net7.0\Domain.dll
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\Infrastructure\bin\Debug\net7.0\Domain.pdb
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll

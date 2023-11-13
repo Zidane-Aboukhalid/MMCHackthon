@@ -1,0 +1,11 @@
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\DTO\bin\Debug\net7.0\DTO.deps.json
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\DTO\bin\Debug\net7.0\DTO.dll
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\DTO\bin\Debug\net7.0\DTO.pdb
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\DTO\obj\Debug\net7.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\DTO\obj\Debug\net7.0\DTO.AssemblyInfoInputs.cache
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\DTO\obj\Debug\net7.0\DTO.AssemblyInfo.cs
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\DTO\obj\Debug\net7.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\DTO\obj\Debug\net7.0\DTO.dll
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\DTO\obj\Debug\net7.0\refint\DTO.dll
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\DTO\obj\Debug\net7.0\DTO.pdb
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\DTO\obj\Debug\net7.0\ref\DTO.dll
