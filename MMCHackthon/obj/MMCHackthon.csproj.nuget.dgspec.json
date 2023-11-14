@@ -160,6 +160,9 @@
             "projectReferences": {
               "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\Domain\\Domain.csproj": {
                 "projectPath": "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\Domain\\Domain.csproj"
+              },
+              "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\DTO\\DTO.csproj": {
+                "projectPath": "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\DTO\\DTO.csproj"
               }
             }
           }
