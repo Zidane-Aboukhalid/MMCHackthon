@@ -9,3 +9,14 @@ C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\Service\obj\Debug
 C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\Service\obj\Debug\net7.0\refint\Service.dll
 C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\Service\obj\Debug\net7.0\Service.pdb
 C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\Service\obj\Debug\net7.0\ref\Service.dll
+D:\AM\Documents\MMC\MMCHackthon\Service\bin\Debug\net7.0\Service.deps.json
+D:\AM\Documents\MMC\MMCHackthon\Service\bin\Debug\net7.0\Service.dll
+D:\AM\Documents\MMC\MMCHackthon\Service\bin\Debug\net7.0\Service.pdb
+D:\AM\Documents\MMC\MMCHackthon\Service\obj\Debug\net7.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\AM\Documents\MMC\MMCHackthon\Service\obj\Debug\net7.0\Service.AssemblyInfoInputs.cache
+D:\AM\Documents\MMC\MMCHackthon\Service\obj\Debug\net7.0\Service.AssemblyInfo.cs
+D:\AM\Documents\MMC\MMCHackthon\Service\obj\Debug\net7.0\Service.csproj.CoreCompileInputs.cache
+D:\AM\Documents\MMC\MMCHackthon\Service\obj\Debug\net7.0\Service.dll
+D:\AM\Documents\MMC\MMCHackthon\Service\obj\Debug\net7.0\refint\Service.dll
+D:\AM\Documents\MMC\MMCHackthon\Service\obj\Debug\net7.0\Service.pdb
+D:\AM\Documents\MMC\MMCHackthon\Service\obj\Debug\net7.0\ref\Service.dll
