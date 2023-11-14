@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\MMCHackthon\\MMCHackthon.csproj": {}
+    "C:\\Users\\siham\\OneDrive\\Desktop\\Projet4\\MMCHackthon\\MMCHackthon\\MMCHackthon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\Domain\\Domain.csproj": {
+    "C:\\Users\\siham\\OneDrive\\Desktop\\Projet4\\MMCHackthon\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\siham\\OneDrive\\Desktop\\Projet4\\MMCHackthon\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\abouk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\siham\\OneDrive\\Desktop\\Projet4\\MMCHackthon\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\siham\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\siham\\OneDrive\\Desktop\\Projet4\\MMCHackthon\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\abouk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\siham\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -79,17 +80,17 @@
         }
       }
     },
-    "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\DTO\\DTO.csproj": {
+    "C:\\Users\\siham\\OneDrive\\Desktop\\Projet4\\MMCHackthon\\DTO\\DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\DTO\\DTO.csproj",
+        "projectUniqueName": "C:\\Users\\siham\\OneDrive\\Desktop\\Projet4\\MMCHackthon\\DTO\\DTO.csproj",
         "projectName": "DTO",
-        "projectPath": "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\DTO\\DTO.csproj",
-        "packagesPath": "C:\\Users\\abouk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\DTO\\obj\\",
+        "projectPath": "C:\\Users\\siham\\OneDrive\\Desktop\\Projet4\\MMCHackthon\\DTO\\DTO.csproj",
+        "packagesPath": "C:\\Users\\siham\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\siham\\OneDrive\\Desktop\\Projet4\\MMCHackthon\\DTO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\abouk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\siham\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -97,6 +98,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -134,17 +136,17 @@
         }
       }
     },
-    "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\siham\\OneDrive\\Desktop\\Projet4\\MMCHackthon\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\siham\\OneDrive\\Desktop\\Projet4\\MMCHackthon\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\abouk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\siham\\OneDrive\\Desktop\\Projet4\\MMCHackthon\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\siham\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\siham\\OneDrive\\Desktop\\Projet4\\MMCHackthon\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\abouk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\siham\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -152,14 +154,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\Domain\\Domain.csproj"
+              "C:\\Users\\siham\\OneDrive\\Desktop\\Projet4\\MMCHackthon\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\siham\\OneDrive\\Desktop\\Projet4\\MMCHackthon\\Domain\\Domain.csproj"
+              },
+              "C:\\Users\\siham\\OneDrive\\Desktop\\Projet4\\MMCHackthon\\DTO\\DTO.csproj": {
+                "projectPath": "C:\\Users\\siham\\OneDrive\\Desktop\\Projet4\\MMCHackthon\\DTO\\DTO.csproj"
               }
             }
           }
@@ -193,17 +199,17 @@
         }
       }
     },
-    "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\MMCHackthon\\MMCHackthon.csproj": {
+    "C:\\Users\\siham\\OneDrive\\Desktop\\Projet4\\MMCHackthon\\MMCHackthon\\MMCHackthon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\MMCHackthon\\MMCHackthon.csproj",
+        "projectUniqueName": "C:\\Users\\siham\\OneDrive\\Desktop\\Projet4\\MMCHackthon\\MMCHackthon\\MMCHackthon.csproj",
         "projectName": "MMCHackthon",
-        "projectPath": "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\MMCHackthon\\MMCHackthon.csproj",
-        "packagesPath": "C:\\Users\\abouk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\MMCHackthon\\obj\\",
+        "projectPath": "C:\\Users\\siham\\OneDrive\\Desktop\\Projet4\\MMCHackthon\\MMCHackthon\\MMCHackthon.csproj",
+        "packagesPath": "C:\\Users\\siham\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\siham\\OneDrive\\Desktop\\Projet4\\MMCHackthon\\MMCHackthon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\abouk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\siham\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -211,23 +217,24 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\Domain\\Domain.csproj"
+              "C:\\Users\\siham\\OneDrive\\Desktop\\Projet4\\MMCHackthon\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\siham\\OneDrive\\Desktop\\Projet4\\MMCHackthon\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\DTO\\DTO.csproj": {
-                "projectPath": "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\DTO\\DTO.csproj"
+              "C:\\Users\\siham\\OneDrive\\Desktop\\Projet4\\MMCHackthon\\DTO\\DTO.csproj": {
+                "projectPath": "C:\\Users\\siham\\OneDrive\\Desktop\\Projet4\\MMCHackthon\\DTO\\DTO.csproj"
               },
-              "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\siham\\OneDrive\\Desktop\\Projet4\\MMCHackthon\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\siham\\OneDrive\\Desktop\\Projet4\\MMCHackthon\\Infrastructure\\Infrastructure.csproj"
               },
-              "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\Service\\Service.csproj"
+              "C:\\Users\\siham\\OneDrive\\Desktop\\Projet4\\MMCHackthon\\Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\siham\\OneDrive\\Desktop\\Projet4\\MMCHackthon\\Service\\Service.csproj"
               }
             }
           }
@@ -292,17 +299,17 @@
         }
       }
     },
-    "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\Service\\Service.csproj": {
+    "C:\\Users\\siham\\OneDrive\\Desktop\\Projet4\\MMCHackthon\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\siham\\OneDrive\\Desktop\\Projet4\\MMCHackthon\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\Service\\Service.csproj",
-        "packagesPath": "C:\\Users\\abouk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\Service\\obj\\",
+        "projectPath": "C:\\Users\\siham\\OneDrive\\Desktop\\Projet4\\MMCHackthon\\Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\siham\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\siham\\OneDrive\\Desktop\\Projet4\\MMCHackthon\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\abouk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\siham\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -310,6 +317,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
