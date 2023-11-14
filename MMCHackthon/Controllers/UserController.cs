@@ -40,12 +40,10 @@ namespace MMCHackthon.Controllers
 
         public IActionResult addUser([FromBody]User user)
         {
-        
             if (user == null) {
                 return BadRequest("user is not exist");
 
             }
-
             unitOfWork.User.Add(user);
             unitOfWork.save();
             return Ok();

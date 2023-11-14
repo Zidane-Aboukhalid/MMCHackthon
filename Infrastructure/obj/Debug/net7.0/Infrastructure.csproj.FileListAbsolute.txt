@@ -30,3 +30,5 @@ C:\Users\siham\OneDrive\Desktop\Projet4\MMCHackthon\Infrastructure\obj\Debug\net
 C:\Users\siham\OneDrive\Desktop\Projet4\MMCHackthon\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
 C:\Users\siham\OneDrive\Desktop\Projet4\MMCHackthon\Infrastructure\bin\Debug\net7.0\DTO.dll
 C:\Users\siham\OneDrive\Desktop\Projet4\MMCHackthon\Infrastructure\bin\Debug\net7.0\DTO.pdb
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\Infrastructure\bin\Debug\net7.0\DTO.dll
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\Infrastructure\bin\Debug\net7.0\DTO.pdb
