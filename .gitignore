@@ -1,0 +1,4 @@
+*.log
+tmp/
+appsettings.json 
+Program.cs

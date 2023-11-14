@@ -2569,6 +2569,9 @@
         }
       },
       "DTO/1.0.0": {
+        "dependencies": {
+          "Domain": "1.0.0"
+        },
         "runtime": {
           "DTO.dll": {}
         }
