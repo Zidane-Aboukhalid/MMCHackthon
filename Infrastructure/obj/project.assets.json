@@ -3795,6 +3795,16 @@
         "runtime": {
           "bin/placeholder/Domain.dll": {}
         }
+      },
+      "DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DTO.dll": {}
+        }
       }
     }
   },
@@ -11023,10 +11033,16 @@
       "type": "project",
       "path": "../Domain/Domain.csproj",
       "msbuildProject": "../Domain/Domain.csproj"
+    },
+    "DTO/1.0.0": {
+      "type": "project",
+      "path": "../DTO/DTO.csproj",
+      "msbuildProject": "../DTO/DTO.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "DTO >= 1.0.0",
       "Domain >= 1.0.0"
     ]
   },
@@ -11059,6 +11075,9 @@
           "projectReferences": {
             "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\Domain\\Domain.csproj": {
               "projectPath": "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\Domain\\Domain.csproj"
+            },
+            "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\DTO\\DTO.csproj": {
+              "projectPath": "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\DTO\\DTO.csproj"
             }
           }
         }
