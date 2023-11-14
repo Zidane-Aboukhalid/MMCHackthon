@@ -2575,6 +2575,7 @@
       },
       "Infrastructure/1.0.0": {
         "dependencies": {
+          "DTO": "1.0.0",
           "Domain": "1.0.0"
         },
         "runtime": {
