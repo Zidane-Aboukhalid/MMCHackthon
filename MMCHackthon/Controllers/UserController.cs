@@ -20,7 +20,7 @@ namespace MMCHackthon.Controllers
         }
 
         [HttpGet]
-        public IActionResult GetAllPersons()
+        public IActionResult GetAllUser()
         {
             return Ok(unitOfWork.User.GetAll()); 
         }
@@ -33,6 +33,23 @@ namespace MMCHackthon.Controllers
             var User = unitOfWork.User.Find(x=> x.IdUser==id);
 
             return Ok(User);
+        }
+
+
+        [HttpPost]
+
+        public IActionResult addUser([FromBody]User user)
+        {
+        
+            if (user == null) {
+                return BadRequest("user is not exist");
+
+            }
+
+            unitOfWork.User.Add(user);
+            unitOfWork.save();
+            return Ok();
+
         }
     }
 }

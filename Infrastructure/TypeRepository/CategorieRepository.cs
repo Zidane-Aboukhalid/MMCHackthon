@@ -14,6 +14,7 @@ class CategorieRepository : GenericRepository<Categorie>, ICategorieRepository
     public CategorieRepository(DBContext context) : base(context)
     {
     }
+
 }
 
 
