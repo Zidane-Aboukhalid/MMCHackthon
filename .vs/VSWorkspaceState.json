@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Domain",
+    "\\Domain\\DB",
+    "\\Service"
+  ],
+  "SelectedNode": "\\Domain\\DB\\DBContext.cs",
+  "PreviewInSolutionExplorer": false
+}
