@@ -9,6 +9,7 @@ C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\Service\obj\Debug
 C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\Service\obj\Debug\net7.0\refint\Service.dll
 C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\Service\obj\Debug\net7.0\Service.pdb
 C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\Service\obj\Debug\net7.0\ref\Service.dll
+<<<<<<< HEAD
 D:\AM\Documents\MMC\MMCHackthon\Service\bin\Debug\net7.0\Service.deps.json
 D:\AM\Documents\MMC\MMCHackthon\Service\bin\Debug\net7.0\Service.dll
 D:\AM\Documents\MMC\MMCHackthon\Service\bin\Debug\net7.0\Service.pdb
@@ -20,3 +21,16 @@ D:\AM\Documents\MMC\MMCHackthon\Service\obj\Debug\net7.0\Service.dll
 D:\AM\Documents\MMC\MMCHackthon\Service\obj\Debug\net7.0\refint\Service.dll
 D:\AM\Documents\MMC\MMCHackthon\Service\obj\Debug\net7.0\Service.pdb
 D:\AM\Documents\MMC\MMCHackthon\Service\obj\Debug\net7.0\ref\Service.dll
+=======
+C:\Users\siham\OneDrive\Desktop\Projet4\MMCHackthon\Service\bin\Debug\net7.0\Service.deps.json
+C:\Users\siham\OneDrive\Desktop\Projet4\MMCHackthon\Service\bin\Debug\net7.0\Service.dll
+C:\Users\siham\OneDrive\Desktop\Projet4\MMCHackthon\Service\bin\Debug\net7.0\Service.pdb
+C:\Users\siham\OneDrive\Desktop\Projet4\MMCHackthon\Service\obj\Debug\net7.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siham\OneDrive\Desktop\Projet4\MMCHackthon\Service\obj\Debug\net7.0\Service.AssemblyInfoInputs.cache
+C:\Users\siham\OneDrive\Desktop\Projet4\MMCHackthon\Service\obj\Debug\net7.0\Service.AssemblyInfo.cs
+C:\Users\siham\OneDrive\Desktop\Projet4\MMCHackthon\Service\obj\Debug\net7.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\siham\OneDrive\Desktop\Projet4\MMCHackthon\Service\obj\Debug\net7.0\Service.dll
+C:\Users\siham\OneDrive\Desktop\Projet4\MMCHackthon\Service\obj\Debug\net7.0\refint\Service.dll
+C:\Users\siham\OneDrive\Desktop\Projet4\MMCHackthon\Service\obj\Debug\net7.0\Service.pdb
+C:\Users\siham\OneDrive\Desktop\Projet4\MMCHackthon\Service\obj\Debug\net7.0\ref\Service.dll
+>>>>>>> ec6b9b7c6f617b87ad093e5ac38dde6277bebf48

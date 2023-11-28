@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wl6wETauIatXD4vdFydITt7OQ0ksUdtpy0tCJmV2cKM428OrZnTpy16wXXL0mMQU5fdh+ckPdB65gpMozTJc0Q==",
+  "dgSpecHash": "2joh7UusAWxZbVtWQPgcxfy4ILKjd5FACsnnn3xswrrJeHLp+BHmSNK7BsQh0dJ4L3hivMS0MnUb2nmFreY2Wg==",
   "success": true,
   "projectFilePath": "D:\\AM\\Documents\\MMC\\MMCHackthon\\MMCHackthon\\MMCHackthon.csproj",
   "expectedPackageFiles": [
@@ -234,5 +234,12 @@
     "C:\\Users\\hp\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problème de lecture du fichier cache D:\\AM\\Documents\\MMC\\MMCHackthon\\MMCHackthon\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

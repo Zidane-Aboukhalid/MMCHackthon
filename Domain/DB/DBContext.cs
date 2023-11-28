@@ -142,11 +142,11 @@ public partial class DBContext : DbContext
 
         modelBuilder.Entity<Participant>(entity =>
         {
-            entity.HasKey(e => e.IdParticipant).HasName("PK__Particip__F3208B3395662D02");
+            entity.HasKey(e => e.PublicCibleId).HasName("PK__Particip__F3208B3395662D02");
 
             entity.ToTable("Participant");
 
-            entity.Property(e => e.IdParticipant).ValueGeneratedNever();
+            entity.Property(e => e.PublicCibleId).ValueGeneratedNever();
             entity.Property(e => e.Email)
                 .HasMaxLength(50)
                 .IsUnicode(false);

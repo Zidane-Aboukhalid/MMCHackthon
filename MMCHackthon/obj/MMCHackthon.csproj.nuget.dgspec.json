@@ -172,6 +172,9 @@
             "projectReferences": {
               "D:\\AM\\Documents\\MMC\\MMCHackthon\\Domain\\Domain.csproj": {
                 "projectPath": "D:\\AM\\Documents\\MMC\\MMCHackthon\\Domain\\Domain.csproj"
+              },
+              "D:\\AM\\Documents\\MMC\\MMCHackthon\\DTO\\DTO.csproj": {
+                "projectPath": "D:\\AM\\Documents\\MMC\\MMCHackthon\\DTO\\DTO.csproj"
               }
             }
           }

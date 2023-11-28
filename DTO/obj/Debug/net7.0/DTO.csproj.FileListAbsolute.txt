@@ -9,6 +9,7 @@ C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\DTO\obj\Debug\net
 C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\DTO\obj\Debug\net7.0\refint\DTO.dll
 C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\DTO\obj\Debug\net7.0\DTO.pdb
 C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\DTO\obj\Debug\net7.0\ref\DTO.dll
+<<<<<<< HEAD
 D:\AM\Documents\MMC\MMCHackthon\DTO\bin\Debug\net7.0\DTO.deps.json
 D:\AM\Documents\MMC\MMCHackthon\DTO\bin\Debug\net7.0\DTO.dll
 D:\AM\Documents\MMC\MMCHackthon\DTO\bin\Debug\net7.0\DTO.pdb
@@ -20,3 +21,16 @@ D:\AM\Documents\MMC\MMCHackthon\DTO\obj\Debug\net7.0\DTO.dll
 D:\AM\Documents\MMC\MMCHackthon\DTO\obj\Debug\net7.0\refint\DTO.dll
 D:\AM\Documents\MMC\MMCHackthon\DTO\obj\Debug\net7.0\DTO.pdb
 D:\AM\Documents\MMC\MMCHackthon\DTO\obj\Debug\net7.0\ref\DTO.dll
+=======
+C:\Users\siham\OneDrive\Desktop\Projet4\MMCHackthon\DTO\bin\Debug\net7.0\DTO.deps.json
+C:\Users\siham\OneDrive\Desktop\Projet4\MMCHackthon\DTO\bin\Debug\net7.0\DTO.dll
+C:\Users\siham\OneDrive\Desktop\Projet4\MMCHackthon\DTO\bin\Debug\net7.0\DTO.pdb
+C:\Users\siham\OneDrive\Desktop\Projet4\MMCHackthon\DTO\obj\Debug\net7.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siham\OneDrive\Desktop\Projet4\MMCHackthon\DTO\obj\Debug\net7.0\DTO.AssemblyInfoInputs.cache
+C:\Users\siham\OneDrive\Desktop\Projet4\MMCHackthon\DTO\obj\Debug\net7.0\DTO.AssemblyInfo.cs
+C:\Users\siham\OneDrive\Desktop\Projet4\MMCHackthon\DTO\obj\Debug\net7.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\siham\OneDrive\Desktop\Projet4\MMCHackthon\DTO\obj\Debug\net7.0\DTO.dll
+C:\Users\siham\OneDrive\Desktop\Projet4\MMCHackthon\DTO\obj\Debug\net7.0\refint\DTO.dll
+C:\Users\siham\OneDrive\Desktop\Projet4\MMCHackthon\DTO\obj\Debug\net7.0\DTO.pdb
+C:\Users\siham\OneDrive\Desktop\Projet4\MMCHackthon\DTO\obj\Debug\net7.0\ref\DTO.dll
+>>>>>>> ec6b9b7c6f617b87ad093e5ac38dde6277bebf48

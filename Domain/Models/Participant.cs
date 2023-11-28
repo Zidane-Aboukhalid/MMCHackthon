@@ -5,7 +5,7 @@ namespace Domain.Models;
 
 public partial class Participant
 {
-    public Guid IdParticipant { get; set; }
+    public Guid PublicCibleId { get; set; }
 
     public string? FullName { get; set; }
 

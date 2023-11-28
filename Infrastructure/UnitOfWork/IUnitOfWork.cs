@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Domain.Models;
 using Infrastructure.Interfaces;
 
 namespace Infrastructure.UnitOfWork;
@@ -60,8 +61,9 @@ public interface IUnitOfWork : IDisposable
     {
         get;
     }
-
-
+    IEnumerable<object> Participants { get; }
 
     int save();
+    void Save();
+    void Update(Participant existingParticipant);
 }

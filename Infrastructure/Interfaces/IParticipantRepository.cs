@@ -7,7 +7,9 @@ using System.Threading.Tasks;
 
 namespace Infrastructure.Interfaces
 {
-    public interface IParticipantRepository:IGenericRepository<Participant>
+    public interface IParticipantRepository : IGenericRepository<Participant>
     {
+        Participant Find(Guid id);
+        Participant GetById(Guid id);
     }
 }
