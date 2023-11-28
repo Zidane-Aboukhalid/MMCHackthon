@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "K3e4Y5eXs7MkVwEngg/kedUgkHMkkml2VXWfq4lPKb1a5YRdaedaslhJVD2ClBYKaoZ0OtvlDAapFzjekQTSlA==",
+=======
+  "dgSpecHash": "1b2xhc97VloabyCX13VgJ17P5RhZGJbVDy56HdgByin+lg9eTtt9H1u2jLKpTj8Jg0n+MkQKrW5MIGOwE4G4Qw==",
+>>>>>>> 68b8efac81bdd9ecb43c7e4a6ecdbf9965e290fe
   "success": true,
   "projectFilePath": "D:\\AM\\Documents\\MMC\\MMCHackthon\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [

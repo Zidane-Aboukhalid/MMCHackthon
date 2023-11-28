@@ -33,4 +33,11 @@ C:\Users\siham\OneDrive\Desktop\Projet4\MMCHackthon\DTO\obj\Debug\net7.0\DTO.dll
 C:\Users\siham\OneDrive\Desktop\Projet4\MMCHackthon\DTO\obj\Debug\net7.0\refint\DTO.dll
 C:\Users\siham\OneDrive\Desktop\Projet4\MMCHackthon\DTO\obj\Debug\net7.0\DTO.pdb
 C:\Users\siham\OneDrive\Desktop\Projet4\MMCHackthon\DTO\obj\Debug\net7.0\ref\DTO.dll
+<<<<<<< HEAD
 >>>>>>> ec6b9b7c6f617b87ad093e5ac38dde6277bebf48
+=======
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\DTO\bin\Debug\net7.0\Domain.dll
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\DTO\bin\Debug\net7.0\Domain.pdb
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\DTO\obj\Debug\net7.0\DTO.csproj.AssemblyReference.cache
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\DTO\obj\Debug\net7.0\DTO.csproj.CopyComplete
+>>>>>>> 68b8efac81bdd9ecb43c7e4a6ecdbf9965e290fe

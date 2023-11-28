@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "2joh7UusAWxZbVtWQPgcxfy4ILKjd5FACsnnn3xswrrJeHLp+BHmSNK7BsQh0dJ4L3hivMS0MnUb2nmFreY2Wg==",
+=======
+  "dgSpecHash": "eAu1LL3kCQvndTJERs4Y8Uyh1AK3oJVB7vnIOATZLao3P3y/NNelcRdww9EuhB32MJZMJMXMX9e2xQTXhaYU9Q==",
+>>>>>>> 68b8efac81bdd9ecb43c7e4a6ecdbf9965e290fe
   "success": true,
   "projectFilePath": "D:\\AM\\Documents\\MMC\\MMCHackthon\\MMCHackthon\\MMCHackthon.csproj",
   "expectedPackageFiles": [

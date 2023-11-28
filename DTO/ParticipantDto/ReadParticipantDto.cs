@@ -17,4 +17,7 @@ namespace DTO.ParticipantDto
         public Guid? IdEve { get; set; }
     }
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 68b8efac81bdd9ecb43c7e4a6ecdbf9965e290fe

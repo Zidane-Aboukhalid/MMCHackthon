@@ -4,7 +4,86 @@
     "D:\\AM\\Documents\\MMC\\MMCHackthon\\DTO\\DTO.csproj": {}
   },
   "projects": {
+<<<<<<< HEAD
     "D:\\AM\\Documents\\MMC\\MMCHackthon\\DTO\\DTO.csproj": {
+=======
+    "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\abouk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abouk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\DTO\\DTO.csproj": {
+>>>>>>> 68b8efac81bdd9ecb43c7e4a6ecdbf9965e290fe
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "D:\\AM\\Documents\\MMC\\MMCHackthon\\DTO\\DTO.csproj",
@@ -31,7 +110,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\abouk\\Desktop\\API Web .net\\Trining1WebAPI\\MMCHackthon\\Domain\\Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
