@@ -20,3 +20,7 @@ C:\Users\siham\OneDrive\Desktop\Projet4\MMCHackthon\DTO\obj\Debug\net7.0\DTO.dll
 C:\Users\siham\OneDrive\Desktop\Projet4\MMCHackthon\DTO\obj\Debug\net7.0\refint\DTO.dll
 C:\Users\siham\OneDrive\Desktop\Projet4\MMCHackthon\DTO\obj\Debug\net7.0\DTO.pdb
 C:\Users\siham\OneDrive\Desktop\Projet4\MMCHackthon\DTO\obj\Debug\net7.0\ref\DTO.dll
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\DTO\bin\Debug\net7.0\Domain.dll
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\DTO\bin\Debug\net7.0\Domain.pdb
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\DTO\obj\Debug\net7.0\DTO.csproj.AssemblyReference.cache
+C:\Users\abouk\Desktop\API Web .net\Trining1WebAPI\MMCHackthon\DTO\obj\Debug\net7.0\DTO.csproj.CopyComplete
